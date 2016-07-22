@@ -1,0 +1,20 @@
+.red{
+	width:800px; 
+	height:800px;
+	background:red;
+	position:static;
+}
+.purple{
+	width:400px; 
+	height:400px;
+	background:purple;
+	position:absolute;
+	left: 200px;
+	top:200px;
+}
+.yellow{
+	width:200px; 
+	height:200px;
+	background:yellow;
+	position:absolute;
+}

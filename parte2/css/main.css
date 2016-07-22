@@ -1,0 +1,20 @@
+.azul{
+	width:800px; 
+	height:800px;
+	background:blue;
+	position:absolute;
+}
+.verde{
+	width:400px; 
+	height:400px;
+	background:green;
+	position:absolute;
+	left:200px;
+	top:200px;
+}
+.negro{
+	width:200px; 
+	height:200px;
+	background:black;
+	position:static;
+}
